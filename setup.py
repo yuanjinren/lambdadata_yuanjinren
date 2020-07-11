@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="lambdadata_yuanjinren", # the name that you will install via pip
-    version="1.0",
+    version="1.4",
     author="Yuanjin Ren",
     author_email="yuanjinren@gmail.com",
     description="A Litter Helper for Dataframe",
