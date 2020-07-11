@@ -8,7 +8,7 @@ TODO
 
 ## Usage
 
-TODO
+from my_lambdata.optionsetting import optionsetting
 
 <hr>
 
