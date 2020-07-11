@@ -3,7 +3,7 @@ My first python package
 
 ## Installation
 
-pip install ___________
+pip install -i https://test.pypi.org/simple/ lambdadata-yuanjinren
 TODO
 
 ## Usage
