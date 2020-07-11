@@ -3,13 +3,15 @@ My first python package
 
 ## Installation
 
+```sh
 pip install -i https://test.pypi.org/simple/ lambdadata-yuanjinren
-TODO
+```
 
 ## Usage
 
-from my_lambdata.optionsetting import optionsetting
-<hr>
+```py
+from my_lambdata.optionsetting import setting
+```
 
 this is a list:
 

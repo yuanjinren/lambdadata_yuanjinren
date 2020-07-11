@@ -1,7 +1,7 @@
 import pandas
 
 
-def optionsetting(my_df):
+def setting(my_df):
    
     pandas.options.display.max_columns = 100
     pandas.options.display.max_rows = 1000
@@ -12,6 +12,6 @@ def optionsetting(my_df):
 if __name__ == "__main__":
     df = pandas.DataFrame({'Col_01':pandas.Series([1.1111,2.2222,3.3333]),
                            'Col_02':pandas.Series(['A','B','C'])})
-    optionsetting(df)
+    setting(df)
     print(df)
     
