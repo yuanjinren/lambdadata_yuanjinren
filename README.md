@@ -9,7 +9,6 @@ TODO
 ## Usage
 
 from my_lambdata.optionsetting import optionsetting
-
 <hr>
 
 this is a list:
