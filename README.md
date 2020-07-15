@@ -14,7 +14,10 @@ from my_lambdata.optionsetting import setting
 from my_lambdata.insertcolumn import insertcol
 ```
 
-this is a list:
+## Docker file usage:
 
- + item 1
- + item 2
+ + docker start 9cd4e9c8196e
+ + docker attach 9cd4e9c8196e
+ + python
+ + from my_lambdata.optionsetting import setting
+ + from my_lambdata.insertcolumn import insertcol
