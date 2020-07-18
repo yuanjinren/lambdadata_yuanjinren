@@ -3,7 +3,7 @@ import pandas
 
 def insertcol (mylist,mydf,column_name = 'new_col'):
     """
-    You need to take a list, a dataframe and the new column name as parameters, then add the list
+    A list, a dataframe and the new column name are required as parameters, then the list will be added
     as a column of the dataframe with the new column name.
     """
 
